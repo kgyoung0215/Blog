@@ -1,0 +1,25 @@
+title:              9.Nyuong
+email:              kgyoung0215@gmail.com
+description:        My Blog
+author:             Start Bootstrap
+baseurl:            "/Hello-World"
+url:                "https://kgyoung0215.github.io"
+
+# Social Profiles
+twitter_username:   #SBootstrap
+github_username:    kgyoung0215
+facebook_username:  #StartBootstrap
+instagram_username:  9.nyuong
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   #UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
