@@ -60,12 +60,12 @@ layout: default
         <div class="clearfix">
           <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
         </div>
-        <div  class="col-lg-4 col-md-2">
-          {% for category in site.categories %}
-            {{category}}
-          {% endfor %}
-        </div>
 
+      </div>
+      <div  class="col-lg-4 col-md-2">
+        {% for category in site.categories %}
+          {{category}}
+        {% endfor %}
       </div>
     </div>
   </div>
