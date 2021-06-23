@@ -2,7 +2,7 @@ title:              9.Nyuong
 email:              kgyoung0215@gmail.com
 description:        My Blog
 author:             Start Bootstrap
-baseurl:            
+baseurl:            "/Blog"
 url:                "https://kgyoung0215.github.io"
 
 # Social Profiles
@@ -10,7 +10,7 @@ twitter_username:   #SBootstrap
 github_username:    kgyoung0215
 facebook_username:  #StartBootstrap
 instagram_username:  9.nyuong
-linkedin_username:
+linkedin_username:  #
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   #UA-XXXXXXXXX-X # out your google-analytics code
