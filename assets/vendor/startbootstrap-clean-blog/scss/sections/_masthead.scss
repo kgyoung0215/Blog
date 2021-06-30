@@ -25,8 +25,9 @@ header.masthead {
         color: white;
 
         @media only screen and (min-width: 768px) {
-            padding: 200px 0;
+            padding: 100px 0;
         }
+        // 인덱스 사진 마진 설정하는거...
     }
 
     .page-heading,

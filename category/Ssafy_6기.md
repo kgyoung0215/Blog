@@ -1,4 +1,4 @@
 ---
 layout: category
-category: spring
+category: Ssafy_6기
 ---
