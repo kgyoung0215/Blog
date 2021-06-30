@@ -6,6 +6,18 @@
 
 .category {
     .active a {
-        color: blue;
+        padding-bottom: 6px;
+        border-bottom: 2px solid #333e4c;
+        font-weight: 700;
+        color: #333e4c;
+    }
+}
+
+.nav2 {
+    .active {
+        padding-bottom: 6px;
+        border-bottom: 2px solid #ffffff;
+        font-weight: 700;
+        color: #ffffff;
     }
 }
