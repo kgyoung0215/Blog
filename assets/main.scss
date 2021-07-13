@@ -21,6 +21,11 @@
         color: #ffffff;
     }
 }
+.intro-animation {
+    animation-name: moving;
+    animation-duration: 0.6s;
+    animation-timing-function: ease-in-out;
+}
 
 section.explanation h1.intro {
     font-family: "Source Sans Pro",sans-serif,"Source Sans Pro","APPLE SD Gothic Neo",HelveticaNeue,Helvetica,"NanumGothic","맑은 고딕","Malgun Gothic",arial,sans-serif;
@@ -28,4 +33,13 @@ section.explanation h1.intro {
     font-weight: bold;
     line-height: 1.17;
     margin: 0;
+}
+
+section.explanation h2.intro {
+    font-size: 30px;
+    font-weight: 400;
+    font-family: "Source Sans Pro","APPLE SD Gothic Neo",HelveticaNeue,Helvetica,"NanumGothic","맑은 고딕","Malgun Gothic",arial,sans-serif;
+    line-height: 1.4;
+    word-wrap: normal;
+    margin: 20px 0 0 0;
 }
